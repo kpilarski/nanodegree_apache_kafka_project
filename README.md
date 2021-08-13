@@ -15,4 +15,4 @@ The Chicago Transit Authority (CTA) has asked us to develop a dashboard displayi
 
 Our architecture will look like so:
 
-![architecture](static/architecture.PNG)
+![architecture](static/architecture.png)
